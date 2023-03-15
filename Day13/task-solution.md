@@ -22,8 +22,8 @@ Task1:
 
 ![image](https://user-images.githubusercontent.com/83691101/225383758-e5a29a4c-b718-47ab-a012-215597ebfd2d.png)
 
-**Integer**: Integers are whole numbers, positive or negative, without decimals.
-e.g  
+**Integer**: Integers are whole numbers, positive or negative, without decimals.<br>
+e.g  <br>
 x = 5
 y = -7
 
